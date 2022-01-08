@@ -17,6 +17,7 @@ ________________________________________________________________________________
 **Overview**
 
 **Features**
+
 Header
   Nav Bar
   Logo
@@ -38,6 +39,7 @@ Validator testing
 Unfixed Bugs
 
 **Deployment**
+
 "My project" has been deployed to GitHub Pages.
   --Steps taken
   
