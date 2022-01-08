@@ -30,13 +30,16 @@ Footer
   Social media links
   Links to header (top of page) body (middle of page)
   
+**Technologies Used**
+  
 **Testing**
 
 Validator testing
   HTML -- W3C Validator
   CSS -- W3C Validator
+  Lighthouse -- test website performance, accessibility, best practices and SEO.
   
-Unfixed Bugs
+Known Bugs
 
 **Deployment**
 
@@ -47,8 +50,11 @@ Unfixed Bugs
 
   Content
     I have used the Code Institute's template to create the repository for this project.
-    I also used the Love Running README.md file as a guide to structure this README.md
+    I also used the Code Institute's and Love Running README.md files as a guide to structure this README.md
   
   Media
     Where images come from?
     Icons for the social media links I got from fontawesome
+    
+  Acknowledgements
+    
