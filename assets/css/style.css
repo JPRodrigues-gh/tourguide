@@ -20,7 +20,7 @@ nav {
     float: right;
 }
 
-#logo, #navmenu a{
+#logo, #navmenu a {
     line-height: 75px;
     color: #252525;
 }
@@ -41,7 +41,8 @@ nav {
 }
 
 #navmenu a:hover {
-    text-decoration: underline;
+    /* text-decoration: underline; */
+    border-bottom: 3px solid;
 }
 
 .activepage {
