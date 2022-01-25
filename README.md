@@ -29,17 +29,21 @@ head
   
 Body
   Header
-    Nav Bar
+    Nav Bar menu contains Home, Gallery, Enquire. These have seperate pages respectively
     Logo - with link to home page 
 
   Section
-    Background Image (optional)
-    Divs and Spans
-      Images that will behave as tiles/buttons with links to other pages: beach, bush, mountain
-  
-Footer
-  Social media links
-  contact details: company name, link to enquiry form as is in nav bar
+    The Home Page
+      I decided agianst this option, maybe a future enhancememt: Images that will behave as tiles/buttons with links to other pages: beach, bush, mountain
+      Here I have three sections depicting the three destination types.
+    The Gallery
+      Contains an assortment of images
+    The Enquiry Form
+      A form provides fields for the user's contact information, a text input for additional information or comments
+  Footer
+    The company name/website name and the link to the enquiry form
+    For my Social media links I used the Love Running website a base structure then made some mods 
+    A link to the top of page.
   
 **Skeleton**
 I am using balsamiq to design my mock-up. Here is the link:
