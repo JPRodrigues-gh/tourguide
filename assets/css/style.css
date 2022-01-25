@@ -41,7 +41,6 @@ nav {
 }
 
 #navmenu a:hover {
-    /* text-decoration: underline; */
     border-bottom: 3px solid;
 }
 
