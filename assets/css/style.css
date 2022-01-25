@@ -10,6 +10,9 @@ body {
 }
 
 /* Header - Logo and Navigation Menu*/
+header {
+    height: 75px;
+}
 
 #logo {
     float: left;
@@ -47,19 +50,17 @@ nav {
 .activepage {
     border-bottom: 3px solid;
 }
-section {
-    height: 300px;
-}
 
 /* Footer */
 
 footer {
     padding: 3%;
+    height: 75px;
 }
 
-footer div {
+/* footer div {
     height: 30px;
-}
+} */
 
 footer li {
     list-style-type: none;
@@ -81,13 +82,32 @@ footer li {
 }
 
 .social-networks i {
-    /* margin: 1%; */
+    margin: 1%;
     padding: 1%;
     color: #252525;
 }
 
 #footer-top {
     float: right;
-    margin-right: 40px;
+    margin-right: 20px;
     color: #252525;
+}
+
+/* Mid sections */
+
+.tour-type {
+    height: 150px;
+    margin: 0 20px 0 20px;
+}
+
+.left-block {
+    padding-top: 50px;
+    width: 50%;
+    float: left;
+}
+
+.right-block {
+    padding-top: 50px;
+    width: 50%;
+    float: right;
 }
