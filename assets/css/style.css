@@ -9,6 +9,12 @@ body {
     color: #252525;
 }
 
+hr {
+    border-top: 1px solid #252525;
+    width: 100%;
+    margin: 5px 0;
+}
+
 /* Header - Logo and Navigation Menu*/
 header {
     height: 75px;
@@ -97,14 +103,26 @@ footer li {
 }
 
 .left-block {
-    padding-top: 50px;
     width: 30%;
     float: left;
-    background-color: cyan;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
 }
 
 .right-block {
-    padding-top: 50px;
     width: 60%;
     float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
 }
+
+.image-box {
+    width: 400px;
+    height: 150px;
+    padding: 20px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #252525;
+    }

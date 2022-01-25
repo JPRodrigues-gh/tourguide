@@ -74,6 +74,11 @@ Known Bugs
   
   Media
     Where images come from?
+    index.html
+      
+    gallery.html
+
+
     Icons for the social media links I got from fontawesome
       <script src="https://kit.fontawesome.com/22fc9c9df2.js" crossorigin="anonymous"></script>
     
