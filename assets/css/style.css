@@ -6,6 +6,7 @@
 body {
     font-family:Arial, Helvetica, sans-serif;
     font-weight:400;
+    color: #252525;
 }
 
 /* Header - Logo and Navigation Menu*/
@@ -26,7 +27,6 @@ nav {
 }
 
 #navmenu {
-    font-size: 150%;
     letter-spacing: 4px;
 }
 
@@ -47,3 +47,61 @@ nav {
 .activepage {
     border-bottom: 3px solid;
 }
+section {
+    height: 300px;
+}
+
+/* Footer */
+
+footer {
+    padding: 3%;
+}
+
+footer div {
+    height: 30px;
+}
+
+footer li {
+    list-style-type: none;
+}
+
+#footer-enquire {
+    float: left;
+    margin-left: 20px;
+    color: #252525;
+    width: 130px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    /* margin: 1%; */
+    padding: 1%;
+    color: #252525;
+}
+
+#footer-top {
+    float: right;
+    margin-right: 40px;
+    color: #252525;
+}
+
+/* .left-position {
+    float: left;
+    width: 33%;
+}
+
+.center-position {
+    width: 33%;
+}
+
+.right-position {
+    float: right;
+    width: 33%;
+} */
