@@ -12,7 +12,7 @@ body {
 hr {
     border-top: 1px solid #252525;
     width: 100%;
-    margin: 5px 0;
+    margin: 20px 0;
 }
 
 /* Header - Logo and Navigation Menu*/
@@ -98,31 +98,35 @@ footer li {
 /* Mid sections */
 
 .tour-type {
-    height: 150px;
-    margin: 0 20px 0 20px;
+    height: 260px;
+    margin: 0 45px 0 45px;
 }
 
 .left-block {
-    width: 30%;
+    width: 33%;
+    height: 250px;
     float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
-
-.right-block {
-    width: 60%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
-
-.image-box {
-    width: 400px;
-    height: 150px;
-    padding: 20px;
     border-style: solid;
     border-width: 3px;
     border-color: #252525;
-    }
+}
+
+.right-block {
+    width: 65%;
+    float: right;
+    line-height: 20px;
+}
+
+.right-block h2{
+    letter-spacing: 2px;
+    padding: 2px;
+}
+
+.right-block p{
+    letter-spacing: 2px;
+}
+
+.left-block img {
+    width: 100%;
+    height: 100%;
+}
