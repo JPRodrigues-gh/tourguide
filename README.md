@@ -10,7 +10,7 @@ Header and Footer
 •	All pages will have the same basic layout with the same header and footer.
 •	The header with the logo and nav bar with Home, Gallery and Enquire menu options.
 
-IMAGE HERE 
+![image](https://user-images.githubusercontent.com/22208203/151168492-baf413f5-c241-4cf7-83fb-3b6299421f44.png)
 
 •	The footer with company name, a link to the enquiry form and links to social media and a link to top of page.
 •	For the social media links layout, I used a blend of Coders Coffee House and Love running. I’ve only included links to Facebook, Twitter and Instagram
