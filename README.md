@@ -11,11 +11,13 @@ Features
 Header and Footer
 
 •	All pages will have the same basic layout with the same header and footer.
+
 •	The header with the logo and nav bar with Home, Gallery and Enquire menu options.
 
 ![image](https://user-images.githubusercontent.com/22208203/151168492-baf413f5-c241-4cf7-83fb-3b6299421f44.png)
 
 •	The footer with company name, a link to the enquiry form and links to social media and a link to top of page.
+
 •	For the social media links layout, I used a blend of Coders Coffee House and Love running. I’ve only included links to Facebook, Twitter and Instagram
 
 ![image](https://user-images.githubusercontent.com/22208203/151169178-1106a256-9d3b-490f-9672-16ca5dfb6c28.png)
@@ -23,7 +25,9 @@ Header and Footer
 Mid-section Landing page
 
 •	First off is a title for the page
+
 •	Followed by 3 sections for the 3 destination types I have chosen: beach, bush and mountain. There are many more to grow the site, like adding island, desert holiday types and then having sub-categories that include a choice of skiing, quad-biking, horse riding, surfing, rock climbing, mountain climbing ... the list can literally go on forever. For now, I kept it simple. 
+
 •	Each section will contain an image depicting the destination type to the left and to the right, the heading describing the type of holiday followed by some text to hype up the user on the respective location. If the user is interested, the user may click on the “enquire now!” link provided below the text. The latter will take the user to the enquiry form (same as the Enquire menu option on the nav menu bar in the header).
  
 ![image](https://user-images.githubusercontent.com/22208203/151169331-0e3b208c-7f7a-4307-80a6-2d8e7aff8bf0.png)
@@ -53,12 +57,15 @@ The initial idea was that each tile on the index page would take the user to a n
 Skeleton
 
 I am using balsamiq to design my mock-up. Here is the link:
+
 https://balsamiq.cloud/skcdnl9/p7tnnmf/r2F00
 
 Technologies Used
 
 •	HTML/CSS
+
 •	GitHub
+
 •	GitPod
 
 Testing
@@ -66,7 +73,9 @@ Testing
 Validator testing
 
 •	HTML -- W3C Validator
+
 •	CSS -- W3C Validator
+
 •	Lighthouse -- test website performance, accessibility, best practices and SEO.
 
 Known Bugs
@@ -81,6 +90,7 @@ TOUR GUIDE has been deployed to GitHub Pages.
 Content
 
 •	I have used the Code Institute's template to create the repository for this project.
+
 •	I also used the Code Institute's template and Love Running README.md files as a guide to structure this README.md
   
 Media
@@ -88,13 +98,17 @@ Media
 Where images come from?
 
 •	caribbean_beaches_atlantisbahamasdotcom.jpg is an image of a beach in the caribbean sourced from atlantisbahamas.com
+
 •	horse_riding_unicorntrailsdotcom.jpg is an image of horse riding on the beach sourced from unicorntrails.com
+
 •	jamaica_beach_istockphotodotcom.jpg is an image of A beach in Jamaica sourced from istockphoto.com
+
 •	parasail_shutterstock.jpg is an image of someone parasailing sourced from shutterstock.com
 
 •	rosewood_miramar_beach_rosewoodhotelsdotcom.jpg is an image with a view of the ocean form the deck at Rosewood Hotel Miramar sourced from rosewoodhotels.com
 
 •	running_on_beach_fitpeopledotcom.jpg is an someone running on the beach sourced from fitpeople.com
+
 •	sundowners_bar-endottripadvisordotcomdothk.jpg is an Image of the sundowners bar sourced from endottripadvisor.com.hk
 
 •	bush_lodge_nldothotelsdotcom.jpg is an Image of bush lodge sourced from nl.hotels.com
@@ -116,7 +130,7 @@ Where images come from?
 •	skukuzaRestCamp_krugerwildlifesafarisdotcom.jpg is an Image of Skukuza camp sourced from krugerwildlifesafaris.com
 
 •	walk_among_game_ioldotcodotza.jpg is an Image of people walking near giraffe sourced from iol.co.za
-•	
+
 •	eco_lodge_easybuysellbusinessdotcom.jpg is an image of a guest seated in a hammock on the deck of a chalet sourced from easybuysellbusiness.com
 
 •	hiking_drakensberghikerdotcodotza.jpg is an image of people seated on rocks in the mountains sourced from drakensberghiker.co.za
@@ -135,10 +149,12 @@ Where images come from?
 Social Media Icons
 
 •	Icons for the social media links I got from fontawesome
+
 •	<script src="https://kit.fontawesome.com/22fc9c9df2.js" crossorigin="anonymous"></script>
 
 Acknowledgements
 
 •	Thanks to my mentor Jack Wachira for his valuable input
+
 •	Code institute tutors for the training material to which I referred whilst working on my project
 
