@@ -151,6 +151,13 @@ footer li {
     column-gap: 0;
 }
 
+.gallery h2 {
+    text-align: center;
+    margin: 20px 0;
+    width: 100%;
+}
+
 .gallery img {
+    clear: both;
     width: 100%;
 }
