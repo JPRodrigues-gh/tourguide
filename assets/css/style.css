@@ -15,8 +15,13 @@ hr {
     margin: 20px 0;
 }
 
+section h2 {
+    line-height: 75px;
+    text-align: center;
+}
+
 /* Header - Logo and Navigation Menu*/
-header {
+#header {
     height: 75px;
 }
 
