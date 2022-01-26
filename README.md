@@ -87,30 +87,50 @@ Media
 
 Where images come from?
 
-•	caribbean_beaches_atlantisbahamasdotcom.jpg is an image of a beach in the caribbean sourced from 
-•	horse_riding_unicorntrailsdotcom.jpg is an image of horse riding on the beach sourced from 
-•	jamaica_beach_istockphotodotcom.jpg is an image of A beach in Jamaica sourced from 
-•	parasail_shutterstock.jpg is an image of someone parasailing sourced from 
-•	rosewood_miramar_beach_rosewoodhotelsdotcom.jpg is an image with a view of the ocean form the deck at Rosewood Hotel Miramar sourced from 
-•	running_on_beach_fitpeopledotcom.jpg is an someone running on the beach sourced from 
-•	sundowners_bar-endottripadvisordotcomdothk.jpg is an Image of the sundowners bar sourced from 
-•	bush_lodge_nldothotelsdotcom.jpg is an Image of bush lodge sourced from 
-•	camping_kruger_bluechillisadotcom.jpg is an Image of a camping site in kruger park sourced from 
-•	chalet_safaridotcom.jpg is an Image of a chalet with elephants in the background sourced from 
-•	elephants_adventurenationdotcom.jpg is an Image of elephants in a river sourced from 
-•	gamedrive_safaribookingsdotcom.jpg is an image of a game drive vehicle near buffalo sourced from 
-•	hiking_in_the_bush_africanoverlandtoursdotcom.jpg is an images of people hiking sourced from 
-•	kruger_hotel_kayakdotcom.jpg is an Image of the inside of hotel room sourced from 
-•	lioness_n_cub_venues4africadotcom.jpg is an image of a lioness and her cub cuddling sourced from 
-•	skukuzaRestCamp_krugerwildlifesafarisdotcom.jpg is an Image of Skukuza camp sourced from 
-•	walk_among_game_ioldotcodotza.jpg is an Image of people walking near giraffe sourced from 
-•	eco_lodge_easybuysellbusinessdotcom.jpg is an image of a guest seated in a hamock on the deck of a chalet sourced from 
-•	hiking_drakensberghikerdotcodotza.jpg is an image of people seated on rocks in the mountains sourced from 
-•	hiking_south-african-hotelsdotcom.jpg is an image of hiker on green hill side sourced from 
-•	hiking_theguardiandotcom.jpg is an image of a hiker crossing a rocky river pass sourced from 
-•	hiking_tripsavvydotcom.jpg is an image of hikers through a green valley sourced from 
-•	night_in_a_cave_theculturetripdotcom.jpg is an image of mountain range taken from inside an awesome cave sourced from 
-•	the_drakensburg_hiking_south_africadotcodotza.jpg is an Image from inside a cave with view of mountain range sourced from 
+•	caribbean_beaches_atlantisbahamasdotcom.jpg is an image of a beach in the caribbean sourced from atlantisbahamas.com
+•	horse_riding_unicorntrailsdotcom.jpg is an image of horse riding on the beach sourced from unicorntrails.com
+•	jamaica_beach_istockphotodotcom.jpg is an image of A beach in Jamaica sourced from istockphoto.com
+•	parasail_shutterstock.jpg is an image of someone parasailing sourced from shutterstock.com
+
+•	rosewood_miramar_beach_rosewoodhotelsdotcom.jpg is an image with a view of the ocean form the deck at Rosewood Hotel Miramar sourced from rosewoodhotels.com
+
+•	running_on_beach_fitpeopledotcom.jpg is an someone running on the beach sourced from fitpeople.com
+•	sundowners_bar-endottripadvisordotcomdothk.jpg is an Image of the sundowners bar sourced from endottripadvisor.com.hk
+
+•	bush_lodge_nldothotelsdotcom.jpg is an Image of bush lodge sourced from nl.hotels.com
+
+•	camping_kruger_bluechillisadotcom.jpg is an Image of a camping site in kruger park sourced from bluechillisa.com
+
+•	chalet_safaridotcom.jpg is an Image of a chalet with elephants in the background sourced from safari.com
+
+•	elephants_adventurenationdotcom.jpg is an Image of elephants in a river sourced from adventurenation.com
+
+•	gamedrive_safaribookingsdotcom.jpg is an image of a game drive vehicle near buffalo sourced from safaribookings.com
+
+•	hiking_in_the_bush_africanoverlandtoursdotcom.jpg is an images of people hiking sourced from africanoverlandtours.com
+
+•	kruger_hotel_kayakdotcom.jpg is an Image of the inside of hotel room sourced from kayak.com
+
+•	lioness_n_cub_venues4africadotcom.jpg is an image of a lioness and her cub cuddling sourced from venues4africa.com
+
+•	skukuzaRestCamp_krugerwildlifesafarisdotcom.jpg is an Image of Skukuza camp sourced from krugerwildlifesafaris.com
+
+•	walk_among_game_ioldotcodotza.jpg is an Image of people walking near giraffe sourced from iol.co.za
+•	
+•	eco_lodge_easybuysellbusinessdotcom.jpg is an image of a guest seated in a hammock on the deck of a chalet sourced from easybuysellbusiness.com
+
+•	hiking_drakensberghikerdotcodotza.jpg is an image of people seated on rocks in the mountains sourced from drakensberghiker.co.za
+
+•	hiking_south-african-hotelsdotcom.jpg is an image of hiker on green hill side sourced from south-african-hotels.com
+
+•	hiking_theguardiandotcom.jpg is an image of a hiker crossing a rocky river pass sourced from theguardian.com
+
+•	hiking_tripsavvydotcom.jpg is an image of hikers through a green valley sourced from tripsavvy.com
+
+•	night_in_a_cave_theculturetripdotcom.jpg is an image of mountain range taken from inside an awesome cave sourced from theculturetrip.com
+
+•	the_drakensburg_hiking_south_africadotcodotza.jpg is an Image from inside a cave with view of mountain range sourced from hiking_south_africa.co.za
+
 
 Social Media Icons
 
