@@ -137,3 +137,20 @@ footer li {
     width: 100%;
     height: 100%;
 }
+
+/* Gallery Page */
+.gallery {
+    clear: both;
+    margin: 0 45px 0 45px;
+    line-height: 0;
+    column-count: 5;
+    column-gap: 0;
+}
+
+.gallery img {
+    width: 100%;
+    /* height: 100%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #252525; */
+}
