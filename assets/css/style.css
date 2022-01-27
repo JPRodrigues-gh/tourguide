@@ -192,7 +192,7 @@ footer li {
 
 .enquire-button {
     margin-top: 20px;
-    border-radius: 2px;
+    border-radius: 6px;
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
@@ -275,20 +275,10 @@ footer li {
         border-color: #252525;
     }
 
-    .right-block {
-        width: 65%;
-        float: right;
-        line-height: 15px;
-    }
-
     .right-block h2{
-        letter-spacing: 1px;
-        padding: 1px;
-        font-size: 120%;
-    }
-
-    .right-block p{
-        letter-spacing: 1px;
+        letter-spacing: 2px;
+        padding: 2px;
+        font-size: 110%;
     }
 }
 
@@ -351,7 +341,7 @@ footer li {
     /* Mid Section */
     .heading h2     {
         text-align: center;
-        line-height: 5px;
+        line-height: 20px;
         font-size: 100%;
     }
 
@@ -373,12 +363,8 @@ footer li {
         line-height: 15px;
     }
 
-    .right-block h2{
-        letter-spacing: 1px;
-        padding: 1px;
-    }
-
-    .right-block p{
-        letter-spacing: 1px;
+    /* Form */
+    .labels {
+        font-size: 80%;
     }
 }
