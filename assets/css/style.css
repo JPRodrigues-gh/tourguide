@@ -3,6 +3,7 @@
     padding: 0;
     border: none;
 }
+
 body {
     font-family:Arial, Helvetica, sans-serif;
     font-weight:400;
@@ -165,15 +166,15 @@ footer li {
 /* Form */
 .form-section {
     border: 1px solid #252525;
+    border-radius: 2px;
+    width: 40%;
     height: 900px;
-    margin: 45px;
+    margin: 45px auto;
 }
 
 .enquiry-form {
-    margin: 1% 10% 0 0;
+    margin: auto;
     max-width: 400px;
-    position: absolute;
-    left: 10%;
     padding: 30px;
 }
 
@@ -181,8 +182,6 @@ footer li {
     margin: 5px 0 20px 0;
     width: 100%;
     height: 25px;
-    /* background: transparent;
-    color: #fafafa; */
     border: 3px solid #252525;
     border-radius: 6px;
 }
@@ -199,29 +198,187 @@ footer li {
     font-size: 100%;
     background-color: #252525;
     color: #fafafa;
-    display: block;
 }
 
 .enquire-button:hover {
-    background-color: #fafafa;
-    color: #302626;
+    background-color: #616161;
+    color: #252525;
 }
 
 #holiday-type {
     border: 3px solid #252525;
     border-radius: 6px;
-    width: 400px;
+    width: 100%;
 }
 
 .chkbox-input {
-    margin: 10px;
+    margin: 5px;
     width: 10%;
     height: 25px;   
 }
 
 .text-area {
     height: 200px;
-    max-width: 400px;
-    min-width: 400px;
+    width: 100%;
+    resize: vertical;
     max-height: 350px;
+}
+
+/* media queries */
+@media screen and (max-width: 1200px) {
+    /* Header - Logo and Navigation Menu*/
+    #header {
+        height: 50px;
+    }
+
+    #logo {
+        float: left;
+        font-size: 200%;
+        margin-left: 20px;
+    }
+
+    #logo, #navmenu a {
+        line-height: 50px;
+        color: #252525;
+    }
+
+    #navmenu {
+        letter-spacing: 2px;
+    }
+
+    #navmenu li {
+        list-style-type: none;
+        float: left;
+        margin-right: 20px;
+    }
+
+    #navmenu a:hover {
+        border-bottom: 1px solid;
+    }
+
+    .activepage {
+        border-bottom: 1px solid;
+    }
+    
+    /* Mid sections */
+    .tour-type {
+        height: 200px;
+        margin: 0 25px 0 25px;
+    }
+
+    .left-block {
+        width: 33%;
+        height: 200px;
+        float: left;
+        border-style: solid;
+        border-width: 2px;
+        border-color: #252525;
+    }
+
+    .right-block {
+        width: 65%;
+        float: right;
+        line-height: 15px;
+    }
+
+    .right-block h2{
+        letter-spacing: 1px;
+        padding: 1px;
+        font-size: 120%;
+    }
+
+    .right-block p{
+        letter-spacing: 1px;
+    }
+
+
+@media screen and (max-width: 900px) {
+
+    /* Header - Logo and Navigation Menu*/
+    #header {
+        height: 25px;
+    }
+
+    #logo {
+        float: left;
+        font-size: 125%;
+        margin-left: 10px;
+    }
+
+    #logo, #navmenu a {
+        line-height: 25px;
+        color: #252525;
+    }
+
+    #navmenu {
+        letter-spacing: 1px;
+    }
+
+    #navmenu li {
+        list-style-type: none;
+        float: left;
+        margin-right: 10px;
+    }
+
+    #navmenu a:hover {
+        border-bottom: 1px solid;
+    }
+
+    .activepage {
+        border-bottom: 1px solid;
+    }
+
+    /* Footer */
+
+    footer {
+        padding: 3%;
+        height: 50px;
+    }
+
+    #footer-enquire {
+        text-align: center;
+        margin: 0 auto;
+        color: #252525;
+        width: 100%;
+    }
+
+    #footer-top {
+        text-align: center;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    /* Mid Section */
+    .heading h2     {
+        text-align: center;
+        line-height: 5px;
+        font-size: 100%;
+    }
+
+    .tour-type {
+        height: 200px;
+        margin: 25px 25px 25px 25px;
+    }
+
+    .left-block {
+        width: 50%;
+        height: 100%;
+        border-style: solid;
+        border-width: 3px;
+        border-color: #252525;
+    }
+
+    .right-block {
+        width: 100%;
+        line-height: 15px;
+    }
+
+    .right-block h2{
+        letter-spacing: 1px;
+        padding: 1px;
+    }
+
+    .right-block p{
+        letter-spacing: 1px;
+    }
 }
