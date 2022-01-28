@@ -83,8 +83,20 @@ Known Bugs
 
 Deployment
 
-TOUR GUIDE has been deployed to GitHub Pages.
-  --Steps taken
+TOUR GUIDE has been deployed to GitHub Pages following these steps:
+
+•	Within Github, I selected the tourguide repository
+
+•	Clicked on Settings
+
+•	Clicked on Pages in the sidebar menu
+
+•	Under source, I selected “main” from the dropdown menu, and clicked <save>
+ 
+•	GitHub pages refreshed and the link to my deployed site is displayed
+ 
+•	https://jprodrigues-gh.github.io/tourguide/
+
 
 Content
 
