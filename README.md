@@ -46,7 +46,7 @@ Enquiry Form
 
 By choosing the Enquire menu option in the header (or a link elsewhere on the home page) an Enquiry Form page opens in a new tab. The user may complete and submit an enquiry form with their contact details, planned travelling dates, choice of holiday type and any additional details or comments to assist the Tour Guide agent in preparing for the "call back". I used "https://formdump.codeinstitute.net/" for my enquiry submit. (The sceenshot is at 50% zoom to fit the whole page)
 
-![image](https://user-images.githubusercontent.com/22208203/151540083-b6ed55d6-b85a-43cb-aa8f-3c8f56b9ff5a.png)
+![image](https://user-images.githubusercontent.com/22208203/151565658-7b9d783d-d2fe-4f84-a29e-df7916c2247e.png)
 
 Future Features
 
