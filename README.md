@@ -32,12 +32,6 @@ Mid-section Landing page
  
 ![image](https://user-images.githubusercontent.com/22208203/151169331-0e3b208c-7f7a-4307-80a6-2d8e7aff8bf0.png)
 
-Enquiry Form
-
-By choosing the Enquire menu option in the header (or a link elsewhere on the home page) an Enquiry Form page opens in a new tab. The user may complete and submit an enquiry form with their contact details, planned travelling dates, choice of holiday type and any additional details or comments to assist the Tour Guide agent in preparing for the "call back".
-
-IMAGE HERE
-
 Gallery Page
 
 At any time, the user may click on the Gallery menu option which will open the Gallery page in a new tab. Here the user may view more images of various holiday destinations.
@@ -48,6 +42,11 @@ At any time, the user may click on the Gallery menu option which will open the G
 
 ![image](https://user-images.githubusercontent.com/22208203/151169435-7f868128-0089-4b89-b74f-a051bdcb92da.png)
  
+Enquiry Form
+
+By choosing the Enquire menu option in the header (or a link elsewhere on the home page) an Enquiry Form page opens in a new tab. The user may complete and submit an enquiry form with their contact details, planned travelling dates, choice of holiday type and any additional details or comments to assist the Tour Guide agent in preparing for the "call back". I used "https://formdump.codeinstitute.net/" for my enquiry submit. (The sceenshot is at 50% zoom to fit the whole page)
+
+![image](https://user-images.githubusercontent.com/22208203/151540083-b6ed55d6-b85a-43cb-aa8f-3c8f56b9ff5a.png)
 
 Future Features
 
