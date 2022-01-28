@@ -74,6 +74,7 @@ footer li {
     margin-left: 20px;
     color: #252525;
     width: 175px;
+    padding-bottom: 3%;
 }
 
 #footer-enquire a {
@@ -97,6 +98,7 @@ footer li {
 #footer-top {
     float: right;
     margin-right: 20px;
+    padding-bottom: 3%;
 }
 
 #footer-top a {
