@@ -160,7 +160,8 @@ Where images come from?
 
 •	Icons for the social media links I got from fontawesome
 
-•	<script src="https://kit.fontawesome.com/22fc9c9df2.js" crossorigin="anonymous"></script>
+•	```<script src="https://kit.fontawesome.com/22fc9c9df2.js" crossorigin="anonymous"></script>```
+
 
 ## Acknowledgements
 
