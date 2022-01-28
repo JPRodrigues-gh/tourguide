@@ -76,6 +76,9 @@ Validator testing
 •	CSS -- W3C Validator
 
 •	Lighthouse -- test website performance, accessibility, best practices and SEO.
+  https://github.com/JPRodrigues-gh/tourguide/blob/main/assets/lighthouse/index_report.html
+  https://github.com/JPRodrigues-gh/tourguide/blob/main/assets/lighthouse/gallery_report.html
+  https://github.com/JPRodrigues-gh/tourguide/blob/main/assets/lighthouse/enquire_report.html
 
 Known Bugs
 
