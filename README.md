@@ -1,14 +1,14 @@
-TOUR GUIDE
+# TOUR GUIDE
 
-Overview
+## Overview
 
 The purpose of the website is to provide users with a virtual tour guide service. The business name being Tour Guide. The ultimate goal is to provide the user with an itinerary for their holiday. They can view the options in terms of type of holiday, eg. beach, bush or mountain, and then submit an enquiry following which an agent can contact the user to get additional details and plan the user’s holiday.
 
-Features
+## Features
 
 •	The website in its simplest form will consists of 3 pages.
 
-Header and Footer
+### Header and Footer
 
 •	All pages will have the same basic layout with the same header and footer.
 
@@ -22,7 +22,7 @@ Header and Footer
 
 ![image](https://user-images.githubusercontent.com/22208203/151169178-1106a256-9d3b-490f-9672-16ca5dfb6c28.png)
  
-Mid-section Landing page
+### Mid-section Landing page
 
 •	First off is a title for the page
 
@@ -32,7 +32,7 @@ Mid-section Landing page
  
 ![image](https://user-images.githubusercontent.com/22208203/151169331-0e3b208c-7f7a-4307-80a6-2d8e7aff8bf0.png)
 
-Gallery Page
+### Gallery Page
 
 At any time, the user may click on the Gallery menu option which will open the Gallery page in a new tab. Here the user may view more images of various holiday destinations.
 
@@ -42,24 +42,23 @@ At any time, the user may click on the Gallery menu option which will open the G
 
 ![image](https://user-images.githubusercontent.com/22208203/151169435-7f868128-0089-4b89-b74f-a051bdcb92da.png)
  
-Enquiry Form
+### Enquiry Form
 
 By choosing the Enquire menu option in the header (or a link elsewhere on the home page) an Enquiry Form page opens in a new tab. The user may complete and submit an enquiry form with their contact details, planned travelling dates, choice of holiday type and any additional details or comments to assist the Tour Guide agent in preparing for the "call back". I used "https://formdump.codeinstitute.net/" for my enquiry submit. (The sceenshot is at 50% zoom to fit the whole page)
 
 ![image](https://user-images.githubusercontent.com/22208203/151565658-7b9d783d-d2fe-4f84-a29e-df7916c2247e.png)
 
-Future Features
+## Future Features
 
 The initial idea was that each tile on the index page would take the user to a new page, opened in a separate tab. In the new page the user can view images that show what the user can expect to enjoy on such a holiday and the different locations. From there the user would be able to expand to further detail on the location, including activities, places of interest and pricing.
 
- 
-Skeleton
+## Skeleton
 
 I am using balsamiq to design my mock-up. Here is the link:
 
 https://balsamiq.cloud/skcdnl9/p7tnnmf/r2F00
 
-Technologies Used
+## Technologies Used
 
 •	HTML/CSS
 
@@ -67,9 +66,9 @@ Technologies Used
 
 •	GitPod
 
-Testing
+## Testing
 
-Validator testing
+### Validator testing
 
 •	HTML -- W3C Validator
 
@@ -77,11 +76,11 @@ Validator testing
 
 •	Lighthouse -- test website performance, accessibility, best practices and SEO.
 
-Known Bugs
+### Known Bugs
 
 •	None known
 
-Deployment
+## Deployment
 
 TOUR GUIDE has been deployed to GitHub Pages following these steps:
 
@@ -98,13 +97,13 @@ TOUR GUIDE has been deployed to GitHub Pages following these steps:
 •	https://jprodrigues-gh.github.io/tourguide/
 
 
-Content
+## Content
 
 •	I have used the Code Institute's template to create the repository for this project.
 
 •	I also used the Code Institute's template and Love Running README.md files as a guide to structure this README.md
   
-Media
+## Media
 
 Where images come from?
 
@@ -157,13 +156,13 @@ Where images come from?
 •	the_drakensburg_hiking_south_africadotcodotza.jpg is an Image from inside a cave with view of mountain range sourced from hiking_south_africa.co.za
 
 
-Social Media Icons
+## Social Media Icons
 
 •	Icons for the social media links I got from fontawesome
 
 •	<script src="https://kit.fontawesome.com/22fc9c9df2.js" crossorigin="anonymous"></script>
 
-Acknowledgements
+## Acknowledgements
 
 •	Thanks to my mentor Jack Wachira for his valuable input
 
