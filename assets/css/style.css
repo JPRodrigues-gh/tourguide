@@ -228,7 +228,7 @@ footer li {
 
 /* media queries */
 @media screen and (max-width: 1200px) {
-    
+
     /* Header - Logo and Navigation Menu*/
     #header {
         height: 50px;
@@ -378,5 +378,21 @@ footer li {
         line-height: 0;
         column-count: 3;
         column-gap: 0;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
+    /* Form */
+    .form-section {
+        border: 1px solid #252525;
+        border-radius: 2px;
+        width: 350px;
+        height: 800px;
+        margin: 45px auto;
+    }
+
+    .labels {
+        font-size: 80%;
     }
 }
