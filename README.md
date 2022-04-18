@@ -76,9 +76,28 @@ https://balsamiq.cloud/skcdnl9/p7tnnmf/r2F00
 
 •	Lighthouse -- test website performance, accessibility, best practices and SEO.
 
+
+## GitHub
+
+•	GitHub, Inc. is a provider of Internet hosting for software development and version control using Git
+•	This project is hosted by GitHub
+•	The repository name is tourguide
+•	The link to the repository is: https://github.com/JPRodrigues-gh/tourguide
+
+## GitPod
+
+•	Web site was built in the GitPod open-source development environment
+•	To test the website in the browser run the following command in the console:
+    •	python3 -m http.server then click browser
+    •	Follow these instructions to commit and push project to GitHub
+        •	git add .
+        •	git commit -m "Initial Commit"
+        •	git push
+
 ### Known Bugs
 
-•	None known
+•	Pages opening in different windows.
+    •	Removed target="_blank" from nav menu buttons Home, Gallery and Enquire in the index, gallery and enquire html files"
 
 ## Deployment
 
